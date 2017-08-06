@@ -1,7 +1,9 @@
 ---
-title: "ReproducibleResearch"
+html_document:
 author: "Sushrut Shendre"
 date: "August 6, 2017"
+keep_md: true
+title: "ReproducibleResearch"
 output: html_document
 ---
 
